@@ -1,0 +1,1 @@
+Hello, I am Student A. I am learning Git and GitHub. I created the first project file. 
